@@ -1,0 +1,14 @@
+{
+  "name": "demo-natours",
+  "version": "1.0.0",
+  "description": "Demo landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss dist/ccs/main.css"
+  },
+  "author": "Reha Gursel",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
